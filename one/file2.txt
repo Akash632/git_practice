@@ -1,1 +1,1 @@
-this is new line in main branch file
+new line in bug-fix
